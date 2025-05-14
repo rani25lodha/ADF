@@ -1,0 +1,17 @@
+{
+	"name": "Binaryfile",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "SourceLS",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "Binary",
+		"typeProperties": {
+			"location": {
+				"type": "AzureBlobFSLocation",
+				"fileSystem": "sourcecontainer"
+			}
+		}
+	}
+}
