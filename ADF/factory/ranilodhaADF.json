@@ -1,0 +1,9 @@
+{
+	"name": "ranilodhaADF",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "2ed723ed-b5a4-44be-88f1-ad2c668ae2ee",
+		"tenantId": "8c2f7df2-9b96-48c8-a40d-2f8736c1f43b"
+	}
+}
